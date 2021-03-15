@@ -10,4 +10,4 @@ COGS 182: Reinforcement Learning | Project 2
      * To run code: 
        * Executable version of code is hosted on Google CoLab: https://colab.research.google.com/drive/11YctvammW06RyBK2duCD-R2TK-3CNVt9?usp=sharing
      * PDF of the ipnyb runthrough, with outputs, results, and plots of MC and of TD
-     * python versions of the ipynb
+     * python version of the ipynb
