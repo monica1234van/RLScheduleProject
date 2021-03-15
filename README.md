@@ -3,7 +3,8 @@
 COGS 182: Reinforcement Learning | Project 2
 
 * This repository contains the following:
-  * For Checkpoint 2: a PDF of the environment dynamics
+  * For Checkpoint 2: 
+     * a PDF of the environment dynamics
   * For Checkpoint 3:
      * ipynb with implementation of First-Visit Monte Carlo Control and TD(lambda) algorithms
      * PDF of the ipnyb runthrough, with outputs, results, and plots
